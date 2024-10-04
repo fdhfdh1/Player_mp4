@@ -1,0 +1,68 @@
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Folder config file
+.DS_Store
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio temporary files, build results, and
+# build logs
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.vspcc
+*.ncb
+*.sdf
+*.opensdf
+*.tgz
+*.gz
+*.zip
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio files to ignore
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.vcproj.*
+*.pdb
+*.obj
+*.cache
+*.ilk
+*.ipch
+*.aps
+*.ncb
+*.reso
+*.pch
+*_i.c
+*_p.c
+*.sbr
+*.opensdf
+*.sln.docstates
+*.vcxproj.*
+*.VC.db
+*.VC.opendb
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folders to ignore
+Debug/
+Release/
+build/
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Add other files/directories here if needed
